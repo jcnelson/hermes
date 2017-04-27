@@ -1,6 +1,6 @@
 # Hermes
 
-This is a placeholder repository for the peer-to-peer multicast messaging layer for Blockstack Core.
+This is a placeholder repository for the peer-to-peer multicast messaging layer for Blockstack Core.  It will not hold code, but will be the community's point of contact for issues about the design and implementation of this subsystem.  The code itself will be merged to [Blockstack Core](https://github.com/blockstack/blockstack-core).
 
 We expect to have this working as a PoC by the end of summer 2017.
 
