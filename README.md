@@ -19,3 +19,15 @@ A Hermes endpoint will use Chronos to find the recipients' public keys, and then
 * A suite of message service drivers
 * Code to parse Atlas zone files for message services
 * A Websocket server endpoint for sending and receiving messages from Blockstack apps.
+
+# Point of Contact
+
+* Jude Nelson (@jude on blockstack.slack.com)
+
+# How can I help?
+
+Glad you asked!
+
+* Star this repo
+* Post questions as Github issues
+* PRs are welcome :)
